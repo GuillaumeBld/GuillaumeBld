@@ -1,4 +1,4 @@
-# Hi, I'm Guillaume Bolivard
+# Hi, I'm Guillaume Bolivard 👋🏾
 
 ## AI Engineer | Quantitative Finance | Trading Automation Specialist
 
