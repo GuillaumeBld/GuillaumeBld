@@ -1,50 +1,50 @@
-# 👋 Hi, I'm Guillaume Bolivard
+# Hi, I'm Guillaume Bolivard
 
-## 🚀 AI Engineer | Quantitative Finance | Trading Automation Specialist
+## AI Engineer | Quantitative Finance | Trading Automation Specialist
 
 ### About Me
 I'm a hybrid technologist bridging **artificial intelligence**, **quantitative finance**, and **research automation**. My work focuses on developing intelligent systems that transform financial decision-making through machine learning, NLP, and algorithmic trading strategies.
 
-### 💼 Core Expertise
+### Core Expertise
 
-🤖 **Artificial Intelligence & Machine Learning**
+**Artificial Intelligence & Machine Learning**
 - Natural Language Processing (NLP) for financial sentiment analysis
 - Deep learning models (DistilBERT, FinBERT) for market prediction
 - AI-powered research automation and paper recommendation systems
 - Embedding-based content discovery and personalization
 
-📊 **Quantitative Finance & Trading**
+**Quantitative Finance & Trading**
 - Algorithmic trading strategy development and backtesting
 - Options pricing and volatility analysis
 - Risk management systems and portfolio optimization
 - Multi-agent trading architectures
 - ESG risk analytics for financial institutions
 
-⚙️ **Automation & Engineering**
+**Automation & Engineering**
 - End-to-end trading bot development (BTC options, WTI crude oil)
 - Real-time market data integration and processing
 - RESTful API design and microservices architecture
 - Cloud deployment (AWS, Docker, Kubernetes)
 
-🔬 **Academic Research & Collaboration**
+**Academic Research & Collaboration**
 - Financial literacy assessment platforms for higher education
 - ESG risk modeling and regulatory compliance
 - Open-source contributions to quantitative finance tools
 - Academic paper discovery and summarization systems
 
-### 🎯 Featured Projects
+### Featured Projects
 
-#### 📈 [Bank Risk Analytics](https://github.com/GuillaumeBld/Bank_Risk_Analytics)
+#### [Bank Risk Analytics](https://github.com/GuillaumeBld/Bank_Risk_Analytics)
 ESG risk scoring system for financial institutions with 100% optimization convergence and 90.6% data coverage. Implements advanced statistical methods for regulatory compliance and sustainable finance.
 
 **Tech Stack:** Python, pandas, NumPy, SciPy, Jupyter
 
-#### 🤖 [WTI Agent Trading Bot](https://github.com/GuillaumeBld/WTI_Agent_Trading_Bot)
+#### [WTI Agent Trading Bot](https://github.com/GuillaumeBld/WTI_Agent_Trading_Bot)
 BTC options volatility smirk trading bot with institutional-grade analytics. Features automated strategy execution, risk management, and performance monitoring.
 
 **Tech Stack:** Python, Deribit API, Options Pricing, Risk Management
 
-#### 💹 [WTI Trading Bot](https://github.com/GuillaumeBld/WTI_TRADING_BOT)
+#### [WTI Trading Bot](https://github.com/GuillaumeBld/WTI_TRADING_BOT)
 Multi-agent AI system for WTI crude oil trading integrating:
 - Technical analysis (RSI, Bollinger Bands, MACD)
 - NLP sentiment analysis (DistilBERT/FinBERT)
@@ -53,22 +53,22 @@ Multi-agent AI system for WTI crude oil trading integrating:
 
 **Tech Stack:** Python, NewsAPI, Transformers, Technical Indicators, Real-time Data
 
-#### 💼 [Investment Portfolio Optimizer](https://github.com/GuillaumeBld/Investment-Portfolio-Optimizer)
+#### [Investment Portfolio Optimizer](https://github.com/GuillaumeBld/Investment-Portfolio-Optimizer)
 Modern Portfolio Theory (MPT) implementation with Monte Carlo simulation for optimal asset allocation. Generates efficient frontier portfolios and risk-adjusted return analytics.
 
 **Tech Stack:** Python, pandas, NumPy, scipy.optimize, yfinance, plotly
 
-#### 🎓 [Financial Literacy Toolkit](https://github.com/GuillaumeBld/Financial-Literacy-Toolkit)
+#### [Financial Literacy Toolkit](https://github.com/GuillaumeBld/Financial-Literacy-Toolkit)
 FERPA-compliant financial literacy assessment platform for universities. Uses AI for automated scoring and analytics to measure educational impact.
 
 **Tech Stack:** Next.js, TypeScript, Python, PostgreSQL, LLMs
 
-#### 📚 [Research Agent](https://github.com/GuillaumeBld/Research-agent)
+#### [Research Agent](https://github.com/GuillaumeBld/Research-agent)
 AI-powered research automation tool that recommends arXiv papers based on Zotero library. Leverages LLMs for TL;DR generation and embeddings for personalized paper discovery.
 
 **Tech Stack:** Python, LLMs, Embeddings, arXiv API, Zotero
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 **Languages:** Python, TypeScript, JavaScript, SQL, Shell
 
@@ -84,14 +84,14 @@ AI-powered research automation tool that recommends arXiv papers based on Zotero
 
 **Trading APIs:** Deribit, Interactive Brokers, Alpaca
 
-### 🌟 What I'm Working On
+### What I'm Working On
 
-- 🔭 Developing advanced volatility trading strategies for cryptocurrency options
-- 🌱 Researching ESG integration in quantitative portfolio construction
-- 🤝 Open to academic collaborations in AI-driven finance and automated trading systems
-- 💡 Building tools that democratize institutional-grade financial analytics
+- Developing advanced volatility trading strategies for cryptocurrency options
+- Researching ESG integration in quantitative portfolio construction
+- Open to academic collaborations in AI-driven finance and automated trading systems
+- Building tools that democratize institutional-grade financial analytics
 
-### 🤝 Collaboration Interests
+### Collaboration Interests
 
 I'm particularly interested in collaborating on:
 - **Academic Research**: Quantitative finance, AI in trading, ESG analytics
@@ -99,16 +99,16 @@ I'm particularly interested in collaborating on:
 - **Industry Projects**: Fintech innovation, robo-advisory platforms, automated trading systems
 - **Educational Initiatives**: Financial literacy, AI education, research automation
 
-### 📫 Get In Touch
+### Get In Touch
 
 - **GitHub:** [@GuillaumeBld](https://github.com/GuillaumeBld)
 - **LinkedIn:** [Guillaume Bolivard](https://www.linkedin.com/in/guillaume-bolivard)
 - **Email:** Open an issue on any of my repositories for collaboration inquiries
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GuillaumeBld&color=brightgreen)
 
 ---
 
-*Building the future of AI-driven finance, one algorithm at a time* 🚀
+*Building the future of AI-driven finance, one algorithm at a time*
